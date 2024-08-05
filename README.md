@@ -1,4 +1,4 @@
-
+Curso lindo do R
 # BMClima - Introdução ao R
 
 Curso preparatório às atividades relacionadas ao projeto 
